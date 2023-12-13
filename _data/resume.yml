@@ -1,0 +1,86 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Dubinsko Pranje"
+  label: "Osvježite Vaše Prevozno Sredstvo"
+  picture: "/assets/img/logo.png"
+  email: "DubinskoPranje.ba@gmail.com"
+  phone: "+38671234567"
+  website: "https://DubinskoPranje.ba"
+  summary: >
+    Imate li pitanja o našim uslugama dubinskog pranja vozila ili želite zakazati termin? Kontaktirajte nas i rado ćemo vam pružiti sve potrebne informacije. Vaše zadovoljstvo našim uslugama je naš prioritet.
+  location:
+    address: "Centar"
+    postalCode: "79000"
+    city: "Prijedor"
+    countryCode: "BA"
+    region: "Republika Srpska"
+  profiles:
+    - network: "Instagram"
+      username: "DubinskoPranje.ba"
+      url: "https://www.instagram.com/DubinskoPranje.ba/"
+    - network: "Facebook"
+      username: "DubinskoPranje.ba"
+      url: "https://www.facebook.com/DubinskoPranje.ba"
+    - network: "YouTube"
+      username: "DubinskoPranje.ba"
+      url: "https://www.youtube.com/@DubinskoPranje.ba"
+    - network: "Twitter"
+      username: "DubinskoPranje.ba"
+      url: "https://twitter.com/DubinskoPranje.ba"
+    - network: "LinkedIn"
+      username: "DubinskoPranje.ba"
+      url: "https://www.linkedin.com/in/DubinskoPranje.ba/"
+skills:
+  - name: "Dubinsko Pranje Vozila"
+    level: "Master"
+    keywords:
+      - "pranje automobila"
+      - "čišćenje vozila"
+      - "dubinsko čišćenje tepiha"
+      - "luksuzno pranje"
+  - name: "Održavanje Vozila"
+    level: "Master"
+    keywords:
+      - "redovno održavanje"
+      - "održavanje enterijera vozila"
+  - name: "Saveti za Održavanje Vozila"
+    level: "Master"
+    keywords:
+      - "saveti za pranje vozila"
+      - "trendovi u nezi vozila"
+      - "novosti u industriji pranja vozila"
+languages:
+  - language: "Ex YU"
+    fluency: "Native speaker"
+  - language: "Slovenački"
+    fluency: "Native speaker"
+  - language: "Nemački"
+    fluency: "Native speaker"
+  - language: "Engleski"
+    fluency: "Native speaker"
+references:
+  - name: "Davor"
+    reference: >
+      Dugogodišnji klijent dubinskopranje.ba i uvek sam zadovoljan rezultatima. Njihovo dubinsko pranje vozila je neprikosnoveno, pružajući sjajne rezultate. Preporučujem svima koji žele vrhunsku brigu o svom vozilu.
+  
+  - name: "Ana"
+    reference: >
+      Sjajan tim u dubinskopranje.ba! Dubinsko pranje, održavanje, svaki put su brzi i precizni. Ovo je pravo mesto za ljude koji žele najbolje za svoja vozila. Velika preporuka!
+
+  - name: "Miloš"
+    reference: >
+      Kvalitetna usluga pranja vozila od strane dubinskopranje.ba. Osim što pružaju vrhunski sjaj, brinu se i o unutrašnjosti vozila. Profesionalnost i odlična briga o klijentima.
+
+  - name: "Tamara"
+    reference: >
+      Tim iz dubinskopranje.ba je moj prvi izbor za održavanje vozila. Njihovo luksuzno pranje ostavlja trajan efekat, a pristup klijentima je izuzetno ljubazan. Toplo preporučujem njihove usluge!
+
+  - name: "Nemanja"
+    reference: >
+      Zadovoljan sam svaki put kada posetim dubinskopranje.ba. Njihovo detaljno pranje vozila i pažnja prema svakom delu automobila su impresivni. Odlična usluga!
+
+  - name: "Emina"
+    reference: >
+      Koristila sam usluge dubinskopranje.ba za pranje svog automobila i rezultati su bili fantastični. Efikasnost
