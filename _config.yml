@@ -43,7 +43,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Dubinsko Pranje
-  email:               dubinskopranje.ba@gmail.com
+  email:               DubinskoPranje.BA@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -69,7 +69,7 @@ legal:
     url:               /kontakt/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2024. All rights reserved DubinskoPranje.BA
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

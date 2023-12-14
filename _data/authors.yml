@@ -3,12 +3,12 @@
 # Change `author1` to your shortname.
 author1:
   name:              Dubinsko Pranje
-  email:             dubinskopranje.ba@gmail.com
+  email:             DubinskoPranje.BA@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Za Sjaj koji se Primećuje sa [Dubinskim Pranjem](/kontakt/).
+    Za Sjaj koji se Primećuje uz [DubinskoPranje.BA](/kontakt/).
 
   # This photo will be used in the about section
   picture:
@@ -22,12 +22,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:           dubinskopranje.ba@gmail.com
-    instagram:       DubinskoPranje.ba
-    twitter:         DubinskoPranje.ba
-    facebook:        DubinskoPranje.ba
-    linkedin:        DubinskoPranje.ba
-    youtube:         DubinskoPranje.ba
+    instagram:       DubinskoPranje.BA
+    facebook:        DubinskoPranje.BA
+    youtube:         DubinskoPranjeBA
+    email:           DubinskoPranje.BA@gmail.com
+    linkedin:        DubinskoPranjeBA
+    twitter:         DubinskoPranjeB
     # skype:           dubinskopranje.ba
     # github:          dubinskopranje.ba
     # rss:             https://<url>/feed.xml
