@@ -1,7 +1,7 @@
 ---
 layout: welcome
-cover: false
-title: Dubinsko Pranje
+cover: true
+title: Dubinsko Pranje BA na 065 019 012
 image: /assets/img/logo.png
 description: >
   Dobrodošli na portal za dubinsko čišćenje! Pružamo izuzetne usluge održavanja čistoće u različitim prostorima, uključujući domove, kuće i poslovne objekte poput restorana.
