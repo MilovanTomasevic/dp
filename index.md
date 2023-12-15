@@ -4,7 +4,7 @@ cover: true
 title: Dubinsko Pranje BA na 065 019 012
 image: /assets/img/logo.png
 description: >
-  Dubinsko Pranje BA na 065 019 012 ! Mi smo tu da vaše vozilo dovedemo do savršenstva. Pružamo vrhunske usluge očuvanja čistoće vaših vozila i drugih prevoznih sredstava.
+  Dubinsko Pranje BA na 065 019 012 ! Dubinsko Pranje BA: Vrhunsko Dubinsko Pranje Vozila u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
 hide_description: true
 selected_projects:
 - _projects/luksuzno-dubinsko-pranje-vozila.md
