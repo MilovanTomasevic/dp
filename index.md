@@ -27,27 +27,89 @@ Tražite vrhunsku uslugu dubinskog pranja vozila u Prijedoru, Banjaluci, Sanskom
 Ne tražite dalje! 
 Dubinsko Pranje BA je vaš pouzdan partner za besprekoran sjaj i očuvanje vašeg vozila na svakom koraku.
 
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/cxhglwgx.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Naša Pokrivenost:
 
 Ponosno pokrivamo četiri ključna grada u Bosni i Hercegovini - Prijedor, Banjaluka, Sanski Most i Novi Grad. Bez obzira gde se nalazite, donosimo profesionalno dubinsko pranje direktno do vaših vrata!
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/pzdaizbm.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
 
 ## Naše Usluge:
 - Dubinsko pranje eksterijera i enterijera vozila.
 - Specijalizovane usluge za različite vrste vozila.
 - Zaštita i održavanje boje i sjaja.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/fmaokgyq.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/jokvdwpe.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Zašto Odabrati Dubinsko Pranje BA:
 - Iskusni tim stručnjaka sa strašću prema detaljima.
 - Korišćenje najmodernijih tehnologija i ekoloških proizvoda.
 - Fleksibilni paketi pranja prilagođeni vašim potrebama.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/pqxpvgtw.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Kontakt
 
 Započnite put ka besprekornom sjaju vašeg vozila! Pozovite [Dubinsko Pranje BA](/kontakt/)  na [065 019 012](tel:+38765019012) i rezervišite svoj termin odmah.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/ixvpzmyr.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ### Izaberite najbolje za svoje vozilo, izaberite Dubinsko Pranje BA!
 
-
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/ynfkqjnz.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
 
 ### Usluge Dubinskog Pranja
 

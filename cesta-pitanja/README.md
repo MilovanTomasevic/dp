@@ -8,6 +8,16 @@ permalink: /cesta-pitanja/
 
 Dobrodošli na našu stranicu Česta Pitanja, gde želimo pružiti jasne informacije o našim uslugama dubinskog pranja vozila i prevoznih sredstava. Pročitajte odgovore na uobičajena pitanja kako biste saznali više o našem pristupu očuvanju izgleda vašeg vozila.
 
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/piakqbri.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 - Table of Contents
 {:toc}
 
@@ -40,3 +50,12 @@ Dobrodošli na našu stranicu Česta Pitanja, gde želimo pružiti jasne informa
 
 ### P: Kako rezervisati termin za dubinsko pranje vozila?
    - *O: Rezervacije se mogu obaviti putem našeg sajta, telefonom ili direktno na lokaciji našeg servisa.*
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/bitpikpk.json"
+    trigger="loop"
+    colors="primary:#1E85FF,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
