@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Dubinsko Pranje
+  name:                Dubinsko Pranje BA
   email:               DubinskoPranje.BA@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -53,8 +53,8 @@ menu:
     url:               /blog/
   - title:             Usluge Dubinskog Pranja
     url:               /usluge-dubinskog-pranja/
-  - title:             Galerija
-    url:               /galerija/
+  # - title:             Galerija
+  #   url:               /galerija/
   - title:             Cena Dubinskog Pranja
     url:               /cena-dubinskog-pranja/
   - title:             Česta Pitanja
@@ -65,8 +65,10 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             KONTAKT
-    url:               /kontakt/
+   - title:             Impresum
+     href:              /impresum/
+   - title:             Politika Kolačića
+     href:              /pravila-o-kolacicima/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved DubinskoPranje.BA
@@ -257,7 +259,7 @@ hydejack:
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
-  advertise:           false
+  advertise:           true
 
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
@@ -272,8 +274,10 @@ hydejack:
     # Set to `true` to always use the dark theme.
     always:            false
 
-    # Set to `true` to use the dark theme based on visitors' preference (OS setting).
+    # Set to `true` to use the dark theme based on visitors' local time.
     dynamic:           true
+    sunrise:           6
+    sunset:            18
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true

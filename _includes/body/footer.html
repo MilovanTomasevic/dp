@@ -2,7 +2,7 @@
 <footer class="content" role="contentinfo">
   <hr/>
   {% if site.copyright.size > 0 %}
-    <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
+  <p><small class="copyright">&#169; 2021-<script> document.write(new Date().getFullYear()); </script> Dubinsko Pranje BA. Sva prava zadržana.</small></p>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -14,7 +14,7 @@
     </small></nav>
   {% endif %}
   {% if site.hydejack.advertise %}
-    <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">9.1.6</span></small></p>
+  <p><small><a class="external" href="https://milovantomasevic.com/" target="_blank" rel="noopener noreferrer">MTech</a></small></p>
   {% endif %}
   <hr class="sr-only"/>
 </footer>
