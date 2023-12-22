@@ -11,8 +11,8 @@ selected_projects:
 - _projects/dubinsko-pranje-prevoznih-sredstava.md
 more_projects: usluge-dubinskog-pranja.md
 selected_posts:
-  - pranje-vozila-saveti-i-trikovi/_posts/2023-02-01-tajne-sjajnog-izgleda-vaseg-automobila.md
-  - trikovi-za-održavanje-vozila/_posts/2023-02-01-kako-odrzavati-enterijer-vaseg-automobila.md
+  - sa-dubinskim-pranjem-ba/_posts/2023-12-10-dubinsko-pranje-automobila-kako-sacuvati-vozilo-u-savrsenom-stanju.md
+  - sa-dubinskim-pranjem-ba/_posts/2023-10-07-kako-pravilno-susiti-automobil-nakon-dubinskog-pranja.md
 more_posts: posts.md
 featured: true
 ---
@@ -116,6 +116,8 @@ Započnite put ka besprekornom sjaju vašeg vozila! Pozovite [Dubinsko Pranje BA
 <!--projects-->
 
 ### Članci o Dubinskom Pranju
+
+Otkrijte tajne perfektnog održavanja vašeg ljubimca na četiri točka uz ekskluzivne savete za dubinsko pranje automobila na DubinskoPranje.ba. Naučite korake, trikove i inovativne metode za očuvanje sjaja, boje i čistoće vašeg vozila. Od praktičnih vodiča do originalnih poklona, pronađite sve što vam je potrebno za vrhunsku negu i zaštitu vašeg automobila. Započnite putovanje ka besprekornom izgledu i dugovečnosti uz našu stručnu podršku u svetu dubinskog pranja automobila.
 
 <!--posts-->
 
