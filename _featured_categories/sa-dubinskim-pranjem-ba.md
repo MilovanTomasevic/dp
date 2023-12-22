@@ -3,10 +3,10 @@
 layout: grid
 
 # The title of the tag's page.
-title: Pranje Vozila Saveti i Trikovi
+title: Sa Dubinskim Pranjem BA
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: pranje-vozila-saveti-i-trikovi
+slug: sa-dubinskim-pranjem-ba
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
